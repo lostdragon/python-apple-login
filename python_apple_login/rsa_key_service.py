@@ -1,4 +1,4 @@
-from Cryptodome.PublicKey import RSA
+from Crypto.PublicKey import RSA
 
 
 class RSAKeyService(object):
